@@ -1,0 +1,18 @@
+{
+    "nome": "otavio",
+    "idade": 19,
+    "telefone": [
+      "11953210283",
+      "11989668452"
+    ],
+    "enderecos": [
+      {
+        "rua": "Rua um",
+        "bairro": "Bairro dois",
+        "cidade": "Sao paulo",
+        "estado": "São Paulo",
+        "apartamento": true
+      }
+    ]
+  }
+  
